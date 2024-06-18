@@ -1,4 +1,4 @@
-# Titanic Kaggle Challenge - Data Science Project README
+# Titanic Kaggle Challenge - Data Science Project
 
 ## Overview
 
